@@ -1,0 +1,41 @@
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-background-color: #f5f5f5;
+}
+
+.tab-pane {
+    -fx-background-color: white;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    -fx-padding: 5px;
+    -fx-border-radius: 3px;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.list-view {
+    -fx-background-color: white;
+    -fx-border-color: #ddd;
+}
+
+.text-area {
+    -fx-font-family: "Consolas", monospace;
+}
+
+.combo-box {
+    -fx-padding: 5px;
+}
